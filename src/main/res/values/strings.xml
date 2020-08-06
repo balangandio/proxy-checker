@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ProxyChecker</string>
+    <string name="activity_file_explorer">FileExplorer</string>
+    <string name="activity_proxy_list">ProxyList</string>
+
+    <string name="btnSsh">SSH Server</string>
+    <string name="btnColar">Colar</string>
+    <string name="btnPayload">Payload</string>
+    <string name="btnArq">Arquivo...</string>
+    <string name="btnThreads">Threads</string>
+    <string name="btnCheck">Check</string>
+    <string name="btnChecked">Checked!</string>
+    <string name="btnCheckInterromper">Interromper</string>
+    <string name="btnCheckInterrompido">Interrompido</string>
+    <string name="btnProxies">Proxies</string>
+
+    <string name="btnOkFileExplorer">Ok</string>
+    <string name="btnUpFileExplorer">Up</string>
+
+    <string name="titleThreadsDialog">Threads</string>
+    <string name="titleSshDialog">SSH Server</string>
+    <string name="titlePayloadDialog">Payload</string>
+
+    <string name="msgQtdThreadsNaoNumerica">Quantidade inválida!</string>
+    <string name="msgSshInvalido">"Conteúdo não do tipo texto!"</string>
+    <string name="msgPayloadKeywords">Payload keywords reconhecidas: [crlf] e [host_port]</string>
+    <string name="msgClipboardVazio">Nada a colar</string>
+    <string name="msgClipboardNaoTexto">Inválido! Informe no formato: addr:port</string>
+    <string name="msgCopiado">Copiado.</string>
+    <string name="msgSucessoAoSalvar">Resultado salvo em arquivo!</string>
+    <string name="msgErroAoSalvar">Error ao salvar resultado em arquivo!</string>
+    <string name="msgErroAoSalvarDir">Error ao criar diretório.</string>
+    <string name="msgServiceDisconnected">Conexão com serviço perdida!</string>
+    <string name="msgPayload">Payload keywords: [crlf] e [host_port]</string>
+
+    <string name="titleTabProxies">Proxies</string>
+    <string name="titleTabOns">ONs</string>
+    <string name="titleTabOffs">OFFs</string>
+
+</resources>
